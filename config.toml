@@ -6,8 +6,9 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+#baseurl = "/"
 baseurl = "/"
-publishDir = "/mnt/Web/Michael"
+#publishDir = "/mnt/Web/Michael"
 
 # Title of your site
 title = "Dr Michael A Schmidt"
