@@ -4,3 +4,7 @@
 [submodule "themes/academic-kickstart"]
 	path = themes/academic-kickstart
 	url = https://github.com/sourcethemes/academic-kickstart.git
+[submodule "public"]
+	path = public
+	url = git@github.com:micha-a-schmidt/micha-a-schmidt.github.io.git
+	branch = master
