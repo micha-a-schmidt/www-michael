@@ -148,7 +148,7 @@ enableGitInfo = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = false
+  math = true
 
   # Highlight.js options
   #   highlight
@@ -320,10 +320,10 @@ enableGitInfo = false
   url = "#about"
   weight = 1
 
-#[[menu.main]]
-#  name = "Publications"
-#  url = "#publications_selected"
-#  weight = 2
+[[menu.main]]
+  name = "Selected Publications"
+  url = "#publications_selected"
+  weight = 2
 
 #[[menu.main]]
 #  name = "Posts"
