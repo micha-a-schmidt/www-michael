@@ -11,7 +11,8 @@ weight = 5
 [interests]
   interests = [
     "Beyond the Standard Model",
-    "Neutrino physics"
+    "Neutrino physics",
+    "Dark matter"
   ]
 
 # List your qualifications (such as academic degrees).
