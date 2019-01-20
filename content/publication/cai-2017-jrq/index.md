@@ -6,6 +6,5 @@ publication_types = ["2"]
 abstract = ""
 selected = true
 publication = ""
-tags = ["other"]
 +++
 

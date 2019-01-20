@@ -6,7 +6,6 @@ publication_types = ["2"]
 abstract = ""
 selected = true
 publication = "*Eur. Phys. J.*"
-tags = ["other"]
 doi = "10.1140/epjc/s10052-018-5935-5"
 +++
 
