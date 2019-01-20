@@ -4,7 +4,7 @@ date = 2016-01-01
 authors = ["Nicole Bell", "Giorgio Busoni", "Archil Kobakhidze", "David M. Long", "Michael A. Schmidt"]
 publication_types = ["2"]
 abstract = ""
-selected = false
+selected = true
 publication = "*JHEP*"
 doi = "10.1007/JHEP08(2016)125"
 +++

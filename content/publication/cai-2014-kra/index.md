@@ -4,7 +4,7 @@ date = 2015-01-01
 authors = ["Yi Cai", "Jackson D. Clarke", "Michael A. Schmidt", "Raymond R. Volkas"]
 publication_types = ["2"]
 abstract = ""
-selected = false
+selected = true
 publication = "*JHEP*"
 doi = "10.1007/JHEP02(2015)161"
 +++

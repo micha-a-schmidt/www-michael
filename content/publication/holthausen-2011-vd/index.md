@@ -4,7 +4,7 @@ date = 2012-01-01
 authors = ["Martin Holthausen", "Michael A. Schmidt"]
 publication_types = ["2"]
 abstract = ""
-selected = false
+selected = true
 publication = "*JHEP*"
 doi = "10.1007/JHEP01(2012)126"
 +++
