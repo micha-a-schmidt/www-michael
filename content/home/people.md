@@ -49,12 +49,12 @@ filter_default = 0
 #   tag = "Demo"
 
 [[filter]]
-  name = "Current students"
+  name = "Current"
   tag = "current"
 
-[[filter]]
-  name = "Alumni"
-  tag = "alumni"
+#[[filter]]
+#  name = "Alumni"
+#  tag = "alumni"
 
 
 +++
