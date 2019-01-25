@@ -1,8 +1,8 @@
 +++
 # Projects widget.
 widget = "projects"
-active = false
-date = 2016-04-20T00:00:00
+active = true
+date = 2019-01-26T00:00:00
 
 title = "Group members"
 subtitle = ""
