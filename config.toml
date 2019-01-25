@@ -55,7 +55,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Dr Michael A Schmidt"
-  role = "Senior Lecturer of Theoretical Particle Physics"
+  role = "Senior Lecturer in Theoretical Particle Physics"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -110,7 +110,8 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "default"
+  #color_theme = "default"
+  color_theme = "ocean"
   # Enable users to switch between day and night mode?
   day_night = true
 
@@ -321,29 +322,49 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
+  name = "Talks"
+  url = "#talks"
+  weight = 2
+
+
+
+[[menu.main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 3
+
+
+[[menu.main]]
+  name = "People"
+  url = "#people"
+  weight = 4
+
+
+[[menu.main]]
   name = "Publications"
   url = "#publications_selected"
-  weight = 2
+  weight = 5
 
 #[[menu.main]]
 #  name = "Posts"
 #  url = "#posts"
 #  weight = 3
 
-#[[menu.main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 4
 
 #[[menu.main]]
 #  name = "Tutorials"
 #  url = "/tutorial/"
 #  weight = 5
+[[menu.main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 6
+
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 7
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

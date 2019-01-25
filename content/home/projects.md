@@ -1,19 +1,19 @@
 +++
 # Projects widget.
 widget = "projects"
-active = false
+active = true
 date = 2016-04-20T00:00:00
 
 title = "Projects"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 10
 
 # Content.
 # Display content from the following folder.
 # For example, `folder = "project"` displays content from `content/project/`.
-folder = "project"
+folder = "projects"
 
 # View.
 # Customize how projects are displayed.
@@ -30,7 +30,7 @@ flip_alt_rows = false
 # Filter toolbar.
 
 # Default filter index (e.g. 0 corresponds to the first `[[filter]]` instance below).
-filter_default = 0
+#filter_default = 0
 
 # Add or remove as many filters (`[[filter]]` instances) as you like.
 # To show all items, set `tag` to "*".
