@@ -335,7 +335,7 @@ enableGitInfo = false
 
 
 [[menu.main]]
-  name = "People"
+  name = "Group"
   url = "#people"
   weight = 4
 
