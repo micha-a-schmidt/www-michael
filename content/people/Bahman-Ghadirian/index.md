@@ -6,14 +6,14 @@ title = "Dr Bahman Ghadirian"
 date = 2019-01-26T00:00:00
 
 # Project summary to display on homepage.
-summary = "PhD<br/>neutrino mass models"
+summary = "PhD student<br/>neutrino mass models"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["PhD", "alumni"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://michael.cai-schmidt.org"
+external_link = ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

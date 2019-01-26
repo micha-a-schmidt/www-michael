@@ -44,4 +44,4 @@ external_link = ""
 #  focal_point = "Smart"
 +++
 
-PhD student at Case Western University
+PhD student at Case Western University with Pavel Fileviez Perez
