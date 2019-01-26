@@ -52,9 +52,9 @@ filter_default = 0
   name = "Current"
   tag = "current"
 
-#[[filter]]
-#  name = "Alumni"
-#  tag = "alumni"
+[[filter]]
+  name = "Alumni"
+  tag = "alumni"
 
 
 +++
