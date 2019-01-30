@@ -1,6 +1,6 @@
 +++
 title = "Unitarisation of EFT Amplitudes for Dark Matter Searches at the LHC"
-date = 2019-01-26  # Schedule page publish date.
+date = 2017-07-10  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.

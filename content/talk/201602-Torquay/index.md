@@ -1,11 +1,11 @@
 +++
-title = "Charged lepton flavour violation"
-date = 2018-11-13  # Schedule page publish date.
+title = "LHC vs. Precision Experiments - A Comparison of LFV D6 Operators QQLL at the LHC and Precision Experiments"
+date = 2016-02-18  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-11-13
+time_start = 2016-02-18
 #time_end = 2030-06-01T15:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -16,11 +16,11 @@ abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "CEPC workshop 2018"
+event = "CoEPP workshop 2016"
 #event_url = "https://indico.ph.qmul.ac.uk/indico/conferenceDisplay.py?confId=170"
 
 # Location of event.
-location = "Beijing, China"
+location = "Torquay, Australia"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -46,7 +46,7 @@ tags = ["clfv"]
 #slides = "example-slides"
 
 # Links (optional).
-url_pdf = "talks/201811-CEPC.pdf"
+#url_pdf = "talks/201707-DSU.pdf"
 #url_slides = ""
 #url_video = ""
 #url_code = ""

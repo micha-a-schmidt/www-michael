@@ -1,11 +1,11 @@
 +++
-title = "Charged lepton flavour violation"
-date = 2018-11-13  # Schedule page publish date.
+title = "Sterile neutrino dark matter production from scalar decay"
+date = 2016-07-26  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-11-13
+time_start = 2016-07-26
 #time_end = 2030-06-01T15:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -16,11 +16,11 @@ abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "CEPC workshop 2018"
+event = "DSU 2016"
 #event_url = "https://indico.ph.qmul.ac.uk/indico/conferenceDisplay.py?confId=170"
 
 # Location of event.
-location = "Beijing, China"
+location = "Bergen, Norway"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -31,11 +31,11 @@ selected = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["clfv"]
+projects = ["dark matter"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["clfv"]
+tags = ["dark matter"]
 
 # Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -46,7 +46,7 @@ tags = ["clfv"]
 #slides = "example-slides"
 
 # Links (optional).
-url_pdf = "talks/201811-CEPC.pdf"
+#url_pdf = "talks/201707-DSU.pdf"
 #url_slides = ""
 #url_video = ""
 #url_code = ""

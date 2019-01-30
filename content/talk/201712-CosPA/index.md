@@ -1,6 +1,6 @@
 +++
 title = "Dark matter direct detection at one loop"
-date = 2019-01-26  # Schedule page publish date.
+date = 2017-12-12  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
