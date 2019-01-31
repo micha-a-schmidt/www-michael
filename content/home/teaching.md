@@ -15,6 +15,11 @@ weight = 70
 
 +++
 
+2019
+-----
+* Quantum Field Theory (4th year)
+* Particle Physics and Cosmology (3rd year)
+
 2018
 -----
 * [Quantum Field Theory (4th year)](teaching/QFT2018.pdf)
