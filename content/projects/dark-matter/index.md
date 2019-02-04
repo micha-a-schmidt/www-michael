@@ -44,5 +44,6 @@ external_link = ""
   focal_point = "BottomLeft"
 +++
 
+The simplest and most compelling explanation of the missing mass in the Universe is in terms of particle dark matter. There are many different well motivated dark matter candidates in models of physics beyond the standard model. Examples include axions, which are predicted by dynamic solutions to the strong CP problem, weakly interacting massive particles (WIMPs) which naturally occur in supersymmetry or any model with an unbroken (discrete) symmetry, keV sterile neutrinos, asymmetric dark matter to name a few. 
 
 

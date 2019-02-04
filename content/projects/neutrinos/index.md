@@ -45,3 +45,11 @@ external_link = ""
 +++
 
 
+The Standard Model predicts neutrinos to be massless. However the observation of neutrino oscillations clearly established that neutrinos are massive. In the last 20 years there has been a tremendous experimental progress. From the first discovery neutrino oscillations experiments are making precision measurements of the leptonic mixing parameters and the neutrino mass squared differences.
+
+New physics beyond the standard model is needed to account for neutrino masses, but we do not know what this new physics is. In the end experiment has to determine the correct model of neutrino mass. However theorists can provide guidance by working out the phenomenology of different models and by identifiying the most interesting experimental signatures.
+
+Related to the quest for the origin of neutrino mass, the pattern of the leptonic mixing matrix requires an explanation: one of the mixing angles is close to maximal and one large in contrast to the quark sector with small mixing angles. (Discrete) flavour symmetries provide a guiding principle to understand the mixing angles. Combining a flavour symmetry with a CP symmetry additionally constrains the (Majorana) phases.
+
+Theory generally predicts the flavour structure at a high energy scale while measurements are performed at a low energy scale. The high-scale predictions are related with the low-scale values via renormalization group equations, which systematically resum the leading quantum corrections. These renormalization group corrections are of the same order of magnitude as the sensitivity of the next-generation experiments and thus have to be taken into accout to properly compare theory predictions to the experimental data.
+

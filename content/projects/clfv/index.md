@@ -45,4 +45,8 @@ external_link = ""
 +++
 
 
+In the standard model the three lepton flavours are separately conserved. The observation of neutrino oscillations and thus neutrino masses clearly established the violation of two linear combinations of the lepton flavour numbers. This implies the existence of charged lepton flavour violating processes, where charged leptons change flavour in absence of neutrinos. These processes exist, but are extremely small if induced by the three active light neutrinos due to unitarity of the leptonic mixing matrix and the
+smallness of neutrino masses. Many other neutrino mass models, such as the inverse seesaw model and radiative neutrino mass models, predict sizable charged-lepton-flavour-violating (CLFV) processes.
+CLFV can also arise in many other extensions of the SM such as multi-Higgs doublet models or the minimal supersymmetric standard model via gauginos-slepton loops with off-diagonal terms in the slepton soft mass matrix. 
+ 
 
