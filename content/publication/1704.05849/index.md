@@ -21,7 +21,7 @@ draft = false
 # 6 = Book section
 
 
-tags = []
+tags = ["neutrinos"]
 projects = ["neutrinos"]
 url_pdf = "https://link.springer.com/content/pdf/10.1007%2FJHEP10%282017%29047.pdf"
 url_preprint = "https://arxiv.org/pdf/1704.05849"

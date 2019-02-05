@@ -22,7 +22,7 @@ draft = false
 # 6 = Book section
 
 
-tags = []
+tags = ["susy"]
 projects = ["susy"]
 url_pdf = "https://link.springer.com/article/10.1007%2FJHEP02%282013%29032"
 url_preprint = "https://arxiv.org/pdf/1212.5243"

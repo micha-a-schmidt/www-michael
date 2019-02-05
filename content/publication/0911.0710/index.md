@@ -20,7 +20,7 @@ abstract = "Under the assumption of classical conformal invariance, we study the
 # 6 = Book section
 
 
-tags = []
+tags = ["ewsb"]
 
 projects = ["ewsb"]
 url_pdf = "https://journals.aps.org/prd/pdf/10.1103/PhysRevD.82.055002"

@@ -22,7 +22,7 @@ draft = false
 # 6 = Book section
 
 
-tags = []
+tags = ["dark matter"]
 projects = ["dark matter"]
 url_pdf = "https://journals.aps.org/prd/pdf/10.1103/PhysRevD.89.016016"
 url_preprint = "https://arxiv.org/pdf/1308.4314"
