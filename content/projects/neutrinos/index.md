@@ -45,7 +45,7 @@ external_link = ""
 +++
 
 
-The Standard Model predicts neutrinos to be massless. However the observation of neutrino oscillations clearly established that neutrinos are massive. In the last 20 years there has been a tremendous experimental progress. From the first discovery neutrino oscillations experiments are making precision measurements of the leptonic mixing parameters and the neutrino mass squared differences.
+The Standard Model predicts neutrinos to be massless. However the observation of neutrino oscillations clearly established that neutrinos are massive. In the last 20 years there has been a tremendous experimental progress. From the first discovery neutrino oscillations experiments are making precision measurements of the leptonic mixing parameters and the neutrino mass squared differences. I have worked on different aspects of neutrino physics including model building and phenomenology of neutrino mass models, models of flavour in the lepton sector and quantum corrections.
 
 New physics beyond the standard model is needed to account for neutrino masses, but we do not know what this new physics is. In the end experiment has to determine the correct model of neutrino mass. However theorists can provide guidance by working out the phenomenology of different models and by identifiying the most interesting experimental signatures.
 
