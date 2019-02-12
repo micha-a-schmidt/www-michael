@@ -54,6 +54,15 @@ date_format = "January 2006"
   date_end = "2011-09-30"
   description = ""
 
+[[experience]]
+  title = "PhD student"
+  company = "TU München, MPI Kernphysik"
+  company_url = "http://www.ippp.dur.ac.uk"
+  location = "München/Heidelberg, Germany"
+  date_start = "2004-01-01"
+  date_end = "2008-07-01"
+  description = "awarded Otto-Hahn medal 2009"
+
 
 #[[experience]]
 #  title = "CEO"
