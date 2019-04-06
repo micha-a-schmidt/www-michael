@@ -1,7 +1,6 @@
 +++
 title = "Sydney particle physics webinar series"
 summary = "List of webinars"
-date = 2019-04-04T00:00:00
 type = "widget_page"
 
 +++
