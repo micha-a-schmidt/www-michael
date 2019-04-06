@@ -1,10 +1,12 @@
 +++
-title = "Webinar"
+title = "Sydney particle physics webinar series"
 summary = "List of rebinars"
 date = 2019-04-04T00:00:00
 type = "widget_page"
 
 +++
+
+# Upcoming and past webinars
 
 * 2019-05-03 Oliver Fischer 
 * 2018-04-17 Julian Heeck [Rare processes and the fate of baryon and lepton numbers](webinar/Seminar-20180417-Heeck.pdf)
