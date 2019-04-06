@@ -6,7 +6,7 @@ type = "widget_page"
 
 +++
 
-* 2019-05-03 Oliver Fischer [slides](webinar/ParticleCosmology2015.pdf)
+* 2019-05-03 Oliver Fischer 
 * 2018-04-17 Julian Heeck [Rare processes and the fate of baryon and lepton numbers](webinar/Seminar-20180417-Heeck.pdf)
 * 2017-11-03 David McKeen [Oscillations and Baryogenesis](webinar/Seminar-20171103-mckeen.pdf)
 * 2017-09-12 Peter Cox [Anomaly-free gauge symmetries and B-decay anomalies](webinar/Seminar-20170912-Cox.pdf)
