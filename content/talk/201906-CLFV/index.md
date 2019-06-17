@@ -46,7 +46,7 @@ tags = ["clfv"]
 #slides = "example-slides"
 
 # Links (optional).
-#url_pdf = "talks/201712-NuPhys.pdf"
+url_pdf = "talks/201906-CLFV.pdf"
 #url_slides = ""
 #url_video = ""
 #url_code = ""
