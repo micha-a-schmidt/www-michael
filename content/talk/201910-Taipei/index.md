@@ -1,6 +1,6 @@
 +++
-title = "A systematic approach to neutrino masses and their phenomenology"
-date = 2019-08-15  # Schedule page publish date.
+title = "Searches for charged lepton flavour violation at colliders"
+date = 2019-10-01  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
@@ -20,7 +20,7 @@ event = "Intensity Frontier in Particle Physics: Flavor, CP Violation and Dark P
 #event_url = "https://indico.ph.qmul.ac.uk/indico/conferenceDisplay.py?confId=170"
 
 # Location of event.
-location = "Taipei, Taiwan"
+location = "Hsinchu, Taiwan"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -31,11 +31,11 @@ selected = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["neutrinos"]
+projects = ["neutrinos","clfv"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["neutrinos"]
+tags = ["neutrinos","clfv"]
 
 # Slides (optional).
 #   Associate this talk with Markdown slides.

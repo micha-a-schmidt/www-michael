@@ -1,61 +1,56 @@
 +++
-# Projects widget.
-widget = "projects"
-active = true
-date = 2019-01-26T00:00:00
+# A "Meet the Team" section created with the People widget.
+# This section displays people from `content/authors/` which belong to the `user_groups` below.
 
-title = "Group members"
+widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = false  # Activate this widget? true/false
+weight = 68  # Order that this section will appear.
+
+title = "Meet the Team"
 subtitle = ""
 
-# Order that this section will appear in.
-weight = 20
+[content]
+  # Choose which groups/teams of users to display.
+  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+  user_groups = ["Principal Investigators",
+                 "Researchers",
+                 "Grad Students",
+                 "Administration",
+                 "Visitors",
+                 "Alumni"]
 
-# Content.
-# Display content from the following folder.
-# For example, `folder = "project"` displays content from `content/project/`.
-folder = "people"
+[design]
+  # Show user's social networking links? (true/false)
+  show_social = false
 
-# View.
-# Customize how projects are displayed.
-# Legend: 0 = list, 1 = cards, 2 = showcase.
-view = 2
+  # Show user's interests? (true/false)
+  show_interests = true
 
-# Widget layout
-# Legend: 0 = two columns (default), 1 = single column
-widget_layout = 0
+[design.background]
+  # Apply a background color, gradient, or image.
+  #   Uncomment (by removing `#`) an option to apply it.
+  #   Choose a light or dark text color by setting `text_color_light`.
+  #   Any HTML color name or Hex value is valid.
+  
+  # Background color.
+  # color = "navy"
+  
+  # Background gradient.
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
+  
+  # Background image.
+  # image = "background.jpg"  # Name of image in `static/img/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
-# For Showcase view, flip alternate rows?
-flip_alt_rows = false
-
-# Filter toolbar.
-
-# Default filter index (e.g. 0 corresponds to the first `[[filter]]` instance below).
-filter_default = 0
-
-# Add or remove as many filters (`[[filter]]` instances) as you like.
-# To show all items, set `tag` to "*".
-# To filter by a specific tag, set `tag` to an existing tag name.
-# To remove toolbar, delete/comment all instances of `[[filter]]` below.
-# [[filter]]
-#   name = "All"
-#   tag = "*"
-#
-# [[filter]]
-#   name = "Deep Learning"
-#   tag = "Deep Learning"
-#
-# [[filter]]
-#   name = "Other"
-#   tag = "Demo"
-
-[[filter]]
-  name = "Current"
-  tag = "current"
-
-[[filter]]
-  name = "Alumni"
-  tag = "alumni"
-
-
+  # Text color (true=light or false=dark).
+  # text_color_light = true  
+  
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
 +++
-

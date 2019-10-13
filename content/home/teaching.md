@@ -11,14 +11,14 @@ title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 70
+weight = 75
 
 +++
 
 2019
 -----
 * [Quantum Field Theory (4th year)](teaching/QFT2019.pdf)
-* Particle Physics and Cosmology (3rd year)
+* [Particle Physics and Cosmology (3rd year)](teaching/PP2019.pdf)
 
 2018
 -----

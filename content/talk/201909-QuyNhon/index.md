@@ -1,6 +1,6 @@
 +++
-title = "tbd"
-date = 2019-08-15  # Schedule page publish date.
+title = "Searches for charged lepton flavour violation at colliders"
+date = 2019-09-15  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
@@ -31,11 +31,11 @@ selected = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["neutrinos"]
+projects = ["neutrinos","clfv"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["neutrinos"]
+tags = ["neutrinos","clfv"]
 
 # Slides (optional).
 #   Associate this talk with Markdown slides.

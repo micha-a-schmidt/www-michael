@@ -1,6 +1,6 @@
 +++
 title = "Searches for CLFV at Current and Future Colliders"
-date = 2019-01-26  # Schedule page publish date.
+date = 2019-06-25  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
@@ -20,7 +20,7 @@ event = "CLFV 2019"
 #event_url = "https://indico.ph.qmul.ac.uk/indico/conferenceDisplay.py?confId=170"
 
 # Location of event.
-location = "London, United Kingdom"
+location = "Fukuoka, Japan"
 
 # Is this a selected talk? (true/false)
 selected = false
