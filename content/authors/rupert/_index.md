@@ -1,24 +1,24 @@
 ---
 # Display name
-name: Tobias Felkl
+name: Rupert Coy
 
 # Username (this should match the folder name)
 authors:
-- tobias
+- rupert
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD student
+role: Honours student
 
 # Organizations/Affiliations
 organizations:
-- name: University of New South Wales Sydney
-  url: "https://physics.unsw.edu.au"
+- name: University of Sydney
+  url: "https://physics.usyd.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include neutrino physics and flavour physics.
+bio: My research is focussed on dark matter.
 
 #education:
 #  courses:
@@ -58,7 +58,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Grad Students
+- Alumni
 ---
 
-My research is focussed on neutrino and flavour physics.
+My research was focussed on dark matter. 
+After my Honours project at the University of Sydney, I moved to the University of Montpellier as a graduate students.
+Now I am a postdoc at the Universite Libre de Bruxelles.
