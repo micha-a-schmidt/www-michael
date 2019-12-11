@@ -5,7 +5,7 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 12 Oct 2019 00:00:00 +1100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 05 Dec 2019 00:00:00 +1100</lastBuildDate>
     <image>
       <url>/img/portrait.jpg</url>
       <title>Tags</title>
@@ -15,7 +15,7 @@
     <item>
       <title>neutrinos</title>
       <link>/tags/neutrinos/</link>
-      <pubDate>Sat, 12 Oct 2019 00:00:00 +1100</pubDate>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +1100</pubDate>
       <guid>/tags/neutrinos/</guid>
       <description></description>
     </item>
