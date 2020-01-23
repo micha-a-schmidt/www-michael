@@ -4,7 +4,7 @@ name: Tobias Felkl
 
 # Username (this should match the folder name)
 authors:
-- tobias
+- Felkl-Tobias
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +14,7 @@ role: PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: University of New South Wales Sydney
+- name: UNSW
   url: "https://physics.unsw.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
