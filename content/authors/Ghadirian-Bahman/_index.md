@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Rupert Coy
+name: Dr Bahman Ghadirian
 
 # Username (this should match the folder name)
 authors:
-- rupert
+- Ghadirian-Bahman
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Honours student
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://physics.usyd.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research is focussed on dark matter.
+bio: My research interests include neutrino physics.
 
 #education:
 #  courses:
@@ -61,6 +61,5 @@ user_groups:
 - Alumni
 ---
 
-My research was focussed on dark matter. 
-After my Honours project at the University of Sydney, I moved to the University of Montpellier as a graduate students.
-Now I am a postdoc at the Universite Libre de Bruxelles.
+My research was focussed on neutrino physics.
+Now working at TuitionWorks Australia.

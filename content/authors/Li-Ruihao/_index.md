@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Dr Bahman Ghadirian
+name: Ruihao Li
 
 # Username (this should match the folder name)
 authors:
-- bahman
+- Li-Ruihao
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD student
+role: Honours student
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://physics.usyd.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include neutrino physics.
+bio: My research is focussed on neutrino physics.
 
 #education:
 #  courses:
@@ -61,5 +61,5 @@ user_groups:
 - Alumni
 ---
 
-My research was focussed on neutrino physics.
-Now working at TuitionWorks Australia.
+My research was focussed on neutrino physics. 
+Now I am a PhD student at Case Western University.

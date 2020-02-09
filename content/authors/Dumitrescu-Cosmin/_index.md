@@ -1,24 +1,24 @@
 ---
 # Display name
-name: Ruihao Li
+name: Cosmin Dumitrescu
 
 # Username (this should match the folder name)
 authors:
-- ruihao
+- Dumitrescu-Cosmin
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Honours student
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Sydney
-  url: "https://physics.usyd.edu.au"
+- name: UNSW
+  url: "https://physics.unsw.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research is focussed on neutrino physics.
+bio: 
 
 #education:
 #  courses:
@@ -58,8 +58,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Alumni
+- Students
 ---
 
-My research was focussed on neutrino physics. 
-Now I am a PhD student at Case Western University.
