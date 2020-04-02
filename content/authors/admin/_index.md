@@ -47,7 +47,7 @@ social:
   link: https://twitter.com/micha_a_schmidt
 - icon: inspire
   icon_pack: ai
-  link: https://inspirehep.net/author/profile/M.A.Schmidt.2
+  link: https://inspirehep.net/authors/1040063
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=bPztMIoAAAAJ
