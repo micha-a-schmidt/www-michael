@@ -18,7 +18,7 @@ organizations:
   url: "https://physics.unsw.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include neutrino physics, dark matter, flavour physics and in general physics beyond the Standard Model.
+bio: Michael's research interests include neutrino physics, dark matter, flavour physics and in general physics beyond the Standard Model.
 
 Currently my research activities are focussed on:
 - (lepton) flavour physics
@@ -70,8 +70,17 @@ user_groups:
 #- Vistor
 ---
 
-I mainly worked on models of neutrino mass generation both in the context of grand unified theories and radiative neutrino mass models. I studied possible flavour symmetries which may explain the leptonic mixing as well as the renormalization group evolution of leptonic mixing angles and neutrino masses. Apart from that I worked on models adressing the question why the electroweak scale is so much lighter than the scale of grand unification or the Planck scale which is commonly known as the hierarchy problem: This includes scale-invariant models and the (next-to) minimal supersymmetric Standard Model. 
+### Research interests
 
-In the Sydney area we are organizing several different events from seminars to conferences. You can find a list of upcoming and past events on the [website of Sydney-CPPC](https://www.sydney-cppc.org/#events_upcoming).
+Michael's research interests are broadly in the field of physics beyond the Standard Model and astroparticle physics. Currently, he is focussed on the phenomenology of neutrino mass models and their connections to dark matter and baryogenesis, charged lepton flavour violation at precision experiments and colliders and the current flavour anomalies in semi-leptonic decays of B mesons.
 
+### Selected publications
+
+1. S. Antusch, J. Kersten, M. Lindner, M. Ratz, M. A. Schmidt - *Running nutrino mass parameters in see-saw scenarios* - [JHEP 03 (2005) 024](https://doi.org/10.1088/1126-6708/2005/03/024); [e-Print: hep-ph/0501272](https://arxiv.org/abs/hep-ph/0501272)
+2. M. Holthausen, M. Lindner, M. A. Schmidt - *CP and Discrete Flavour Symmetries* - [JHEP 04 (2013) 122](https://doi.org/10.1007/JHEP04(2013)122); [e-Print: 1211.6953](https://arxiv.org/abs/1211.6953)
+3. T. Gherghetta, B. v. Harling, A. D. Medina, M. A. Schmidt - *The Scale-Invariant NMSSM and the 126 GeV Higgs Boson* - [JHEP 02 (2013) 032](https://doi.org/10.1007/JHEP02(2013)032); [e-Print: 1212.5243](https://arxiv.org/abs/1212.5243)
+4. Y. Cai, J. Gargalionis, M. A. Schmidt, R. R. Volkas - *Reconsidering the One Leptoquark solution: flavor anomalies and neutrino mass* - [JHEP 10 (2017) 047](https://doi.org/10.1007/JHEP10(2017)047); [e-Print: 1704.05849](https://arxiv.org/abs/1704.05849)
+5. T. Li, M. A. Schmidt - *Sensitivity of future lepton colliders to the search for charged lepton flavor violation* - [Phys.Rev.D 99 (2019) 5, 055038](https://doi.org/10.1103/PhysRevD.99.055038); [e-Print: 1809.07924](https://arxiv.org/abs/1809.07924)
+6. J. Herrero-Garcia, M. A. Schmidt - *Neutrino mass models: New classification and model-independent upper limits on their scale* - [
+Eur.Phys.J.C 79 (2019) 11, 938](https://doi.org/10.1140/epjc/s10052-019-7465-1); [e-Print: 1903.10552](https://arxiv.org/abs/1903.10552)
 
