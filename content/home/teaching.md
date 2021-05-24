@@ -18,7 +18,7 @@ weight = 75
 -----
 * PHYS4143 Quantum Field Theory (4th year)
 * PHYS1221/1231 First year physics: Light/Quantum (1st year)
-* PHYS3115 Particle Physics and Cosmology (3rd year)
+* [PHYS3115 Particle Physics and Cosmology (3rd year)](teaching/PP2020.pdf)
 
 
 2019
