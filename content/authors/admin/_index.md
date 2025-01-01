@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Dr Michael A Schmidt
+name: A/Prof Michael A Schmidt
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Lecturer of Theoretical Particle Physics
+role: Associate Professor of Theoretical Particle Physics
 
 # Organizations/Affiliations
 organizations:
